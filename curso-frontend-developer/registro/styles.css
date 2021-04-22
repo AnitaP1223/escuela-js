@@ -6,7 +6,7 @@ body {
 .header {
   align-items: center;
   background-color: #21c08b;
-  color: white;
+  color: Red;
   display: flex;
   height: 100px;
   justify-content: space-between;
